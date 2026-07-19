@@ -6,9 +6,10 @@ The app lets users register, log in, view live crypto prices, inspect their wall
 
 ### Screenshots
 
-![Home Page](docs/images/homepage.png)
-![Trading Console](docs/images/trading-console.png)
-![News Section](docs/images/news-section.png)
+![Screenshot 1](docs/images/screenshot1.png)
+![Screenshot 2](docs/images/screenshot2.png)
+![Screenshot 3](docs/images/screenshot3.png)
+![Screenshot 4](docs/images/screenshot4.png)
 
 ## Current UI
 
