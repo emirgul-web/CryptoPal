@@ -4,7 +4,11 @@ CryptoVault is a full-stack cryptocurrency trading dashboard built with a Spring
 
 The app lets users register, log in, view live crypto prices, inspect their wallet, execute buy/sell orders, open coin charts, manage account details, and use a draggable AI market chat.
 
-![Trading Console](docs/images/trading-console-screenshot.png)
+### Screenshots
+
+![Home Page](docs/images/homepage.png)
+![Trading Console](docs/images/trading-console.png)
+![News Section](docs/images/news-section.png)
 
 ## Current UI
 
